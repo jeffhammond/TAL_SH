@@ -1,6 +1,7 @@
-/** Tensor Algebra Library for NVidia GPU: NV-TAL (CUDA based).
+/** Tensor Algebra Library for SYCL.
 AUTHOR: Dmitry I. Lyakh (Liakh): quant4me@gmail.com, liakhdi@ornl.gov
-REVISION: 2020/10/02
+AUTHOR: Jeff Hammond.
+REVISION: 2020/12/08
 
 Copyright (C) 2014-2020 Dmitry I. Lyakh (Liakh)
 Copyright (C) 2014-2020 Oak Ridge National Laboratory (UT-Battelle)
